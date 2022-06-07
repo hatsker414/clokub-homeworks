@@ -24,6 +24,17 @@ Resource terraform для ЯО
 - [Route table](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/vpc_route_table)
 - [Compute Instance](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/compute_instance)
 ---
+
+## Решение Задания 1. 
+- [main.tf](https://github.com/hatsker414/clokub-homeworks/blob/clokub-5/15.1/main.tf)
+
+![1](img/dz_15_1_1.png)
+![2](img/dz_15_1_2.png)
+![3](img/dz_15_1_3.png)
+![4](img/dz_15_1_4.png)
+![5](img/dz_15_1_5.png)
+![6](img/dz_15_1_6.png)
+
 ## Задание 2*. AWS (необязательное к выполнению)
 
 1. Создать VPC.
